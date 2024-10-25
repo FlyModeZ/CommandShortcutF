@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "commandshortcutf",
+    "name": "CommandShortcutF",
+    "description": "im test",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [
+      "FlyModeZ"
+    ]
+  }
+]
